@@ -1,2 +1,2 @@
-# week-lab-2
+# week 3-lab-2
 examples for lab 2
